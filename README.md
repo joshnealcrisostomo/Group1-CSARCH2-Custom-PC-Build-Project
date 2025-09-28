@@ -30,7 +30,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/cNd2PJ
 | Power Supply | MSI MAG A550BN 550W 80+ Bronze  Certified ATX Power Supply | $54.99 / ₱3193.12 | ... |
 | Case | Lian Li A3-mATX MicroATX Mini Tower Case | $69.99 / ₱4064.12 | ... |
 | Case Fans | Thermalright TL-P12W-S 52.86 CFM 120 mm Fan | $5.39 / ₱312.98 | ... |
-| **Total** | | **439.92 USD / 25,585..57 Php** | |
+| **Total** | | **439.92 USD / 25585.57 Php** | |
 ---
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
