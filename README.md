@@ -1,12 +1,13 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 1
+
 **Course**: CSARCH2
-**Section**: ___
+**Section**: S20
 **Group Members**:
-- Name 1
-- Name 2
-- Name 3
-- Name 4
-- Name 5
+- Crisostomo, Josh Neal
+- Lim, Patrick Anthony
+- Ross, Isabella Althea
+- De Castro, Jediaelle Denise
+- Sim, Matthew Fraser
 ---
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).
@@ -33,35 +34,24 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/hs3GQd
 ---
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________
+Google spreadsheet link: [PC_Build_Template_With_Budget](https://docs.google.com/spreadsheets/d/15jZedLD7o_Gfmr0jKC2sMzixGadV74LwGvGNQ5sZwUE/edit?gid=533572080#gid=533572080)
+
 ### Local Build Table
-| Component | Model | Vendor & Link | Price (Php) | Compatibility Notes
-|
-|-----------------|-------|--------------------|-------------|---------------------
------------------|
-| CPU | ... | [PC Express](link) | ... | Socket LGA1700
-compatible with B760M |
-| CPU Cooler | ... | [VillMan](link) | ... | Fits case clearance
-|
-| Motherboard | ... | [PC Express](link) | ... | Supports DDR5 RAM
-|
-| RAM | ... | [PC Express](link) | ... | DDR5-5200 CL40,
-2x8GB |
-| Storage 1 (SSD) | ... | [PC Express](link) | ... | NVMe M.2 slot
-supported |
-| Storage 2 (HDD) | ... | [PVillMan](link) | ... | SATA port supported
-|
-| GPU | ... | [VillMan](link) | ... | Requires 2×8-pin
-PCIe, PSU supports |
-| PSU | ... | [PVillMan](link) | ... | 650W, 80+ Bronze
-|
-| Case | ... | [VillMan](link) | ... | ATX Mid-Tower
-|
-| Case Fans | ... | [VillMan](link) | ... | 120mm, 3-pin
-|
-| **Total** | | | **XXX Php** | Within budget
-|
----
+
+| Component       | Model | Vendor & Link       | Price (Php) | Compatibility Notes                        |
+|-----------------|-------|--------------------|-------------|-------------------------------------------|
+| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M       |
+| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                        |
+| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                          |
+| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                      |
+| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported                    |
+| Storage 2 (HDD) | ...   | [VillMan](link)    | ...         | SATA port supported                        |
+| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports        |
+| PSU             | ...   | [VillMan](link)    | ...         | 650W, 80+ Bronze                           |
+| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                              |
+| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                               |
+| **Total**       |       |                    | **XXX Php** | Within budget                              |
+
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.
 Example:
