@@ -20,7 +20,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/rqtFjn
 ### Summary Table
 | Component | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU | ... | ... | ... |
+| CPU | Intel Core i3-12100 | ... | ... |
 | CPU Cooler | ... | ... | ... |
 | Motherboard | ... | ... | ... |
 | RAM | ... | ... | ... |
