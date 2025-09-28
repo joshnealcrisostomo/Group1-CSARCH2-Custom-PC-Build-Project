@@ -20,17 +20,17 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/cNd2PJ
 ### Summary Table
 | Component | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU | Intel Core i3-12100 3.3GHz Quad-Core Processor | $139.99 | ... |
-| CPU Cooler | ARCTIC Alpine 17 CO | $12.99 | ... |
-| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | $89.29 | ... |
-| RAM | TEAMGROUP T-Create Expert 16GB (2x8GB) DDR4-3200 CL 16 Memory | $45.99 | ... |
-| Storage 1 | TEAMGROUP MS30 256GB M.2-2280 SATA SSD | $21.99 | ... |
+| CPU | Intel Core i3-12100 3.3GHz Quad-Core Processor | $139.99 / ₱8,128.83 | ... |
+| CPU Cooler | ARCTIC Alpine 17 CO | $12.99 / ₱754.29 | ... |
+| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | $89.29 / ₱5184.82 | ... |
+| RAM | TEAMGROUP T-Create Expert 16GB (2x8GB) DDR4-3200 CL 16 Memory | $45.99 / ₱2670.51 | ... |
+| Storage 1 | TEAMGROUP MS30 256GB M.2-2280 SATA SSD | $21.99 / ₱1276.90 | ... |
 | Storage 2 | ... | ... | ... |
 | Graphics Card | ... | ... | ... |
-| Power Supply | MSI MAG A550BN 550W 80+ Bronze  Certified ATX Power Supply | $54.99 | ... |
-| Case | Lian Li A3-mATX MicroATX Mini Tower Case | $69.99 | ... |
-| Case Fans | Thermalright TL-P12W-S 52.86 CFM 120 mm Fan | $5.39 | ... |
-| **Total** | | **439.92 USD / 25,544.93 Php** | |
+| Power Supply | MSI MAG A550BN 550W 80+ Bronze  Certified ATX Power Supply | $54.99 / ₱3193.12 | ... |
+| Case | Lian Li A3-mATX MicroATX Mini Tower Case | $69.99 / ₱4064.12 | ... |
+| Case Fans | Thermalright TL-P12W-S 52.86 CFM 120 mm Fan | $5.39 / ₱312.98 | ... |
+| **Total** | | **439.92 USD / 25,585..57 Php** | |
 ---
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
