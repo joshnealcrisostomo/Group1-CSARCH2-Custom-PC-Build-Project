@@ -20,9 +20,9 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/rqtFjn
 ### Summary Table
 | Component | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU | Intel Core i3-12100 | ... | ... |
-| CPU Cooler | ... | ... | ... |
-| Motherboard | ... | ... | ... |
+| CPU | Intel Core i3-12100 3.3GHz Quad-Core Processor | $139.99 | ... |
+| CPU Cooler | ARCTIC Alpine 17 CO | $12.99 | ... |
+| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | ... | ... |
 | RAM | ... | ... | ... |
 | Storage 1 | ... | ... | ... |
 | Storage 2 | ... | ... | ... |
