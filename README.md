@@ -20,16 +20,16 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/cNd2PJ
 ### Summary Table
 | Component | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU | Intel Core i3-12100 3.3GHz Quad-Core Processor | $139.99 / ₱8,128.83 | ... |
-| CPU Cooler | ARCTIC Alpine 17 CO | $12.99 / ₱754.29 | ... |
-| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | $89.29 / ₱5184.82 | ... |
-| RAM | TEAMGROUP T-Create Expert 16GB (2x8GB) DDR4-3200 CL 16 Memory | $45.99 / ₱2670.51 | ... |
-| Storage 1 | TEAMGROUP MS30 256GB M.2-2280 SATA SSD | $21.99 / ₱1276.90 | ... |
+| CPU | Intel Core i3-12100 3.3GHz Quad-Core Processor | $139.99 / ₱8,128.83 | Compatible with the Motherboard's CPU Socket (LGA1700) |
+| CPU Cooler | ARCTIC Alpine 17 CO | $12.99 / ₱754.29 | Compatible with the Motherboard's CPU Cooler Mount (LGA1700) |
+| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | $89.29 / ₱5184.82 | Fits the Lian Li A3-mATX MicroATX Mini Tower Case (Motherboard Mount) |
+| RAM | TEAMGROUP T-Create Expert 16GB (2x8GB) DDR4-3200 CL 16 Memory | $45.99 / ₱2670.51 | Occupies both RAM1 and RAM2 (288-pin DIMM) slots. However, RAM Clearance with the CPU Cooler is not checked. |
+| Storage 1 | TEAMGROUP MS30 256GB M.2-2280 SATA SSD | $21.99 / ₱1276.90 | Occupies the M.2_1 (M) slot. However, using this SATA-based M.2 device disables one SATA 6 Gb/s port. |
 | Storage 2 | ... | ... | ... |
 | Graphics Card | ... | ... | ... |
-| Power Supply | MSI MAG A550BN 550W 80+ Bronze  Certified ATX Power Supply | $54.99 / ₱3193.12 | ... |
-| Case | Lian Li A3-mATX MicroATX Mini Tower Case | $69.99 / ₱4064.12 | ... |
-| Case Fans | Thermalright TL-P12W-S 52.86 CFM 120 mm Fan | $5.39 / ₱312.98 | ... |
+| Power Supply | MSI MAG A550BN 550W 80+ Bronze  Certified ATX Power Supply | $54.99 / ₱3193.12 | Fits the Lian Li A3-mATX MicroATX Mini Tower Case (PSU_MNT). Compatible with the Motherboard for both ATX24 (24-Pin) and EPS (8-Pin) power connections. |
+| Case | Lian Li A3-mATX MicroATX Mini Tower Case | $69.99 / ₱4064.12 | Requires adapters for full front panel USB functionality: USB 2.0 to USB 3.2 Gen 1 header adapter and USB 3.2 Gen 1 to USB 3.2 Gen 2 header adapter. |
+| Case Fans | Thermalright TL-P12W-S 52.86 CFM 120 mm Fan | $5.39 / ₱312.98 | Fan compatibility checking is currently not supported. |
 | **Total** | | **439.92 USD / 25585.57 Php** | |
 ---
 ## 3. Local Manila Build
