@@ -16,7 +16,7 @@ science, etc.) and budget constraint.
 ---
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check.
-PCPartPicker Permalink: https://pcpartpicker.com/list/hs3GQd
+PCPartPicker Permalink: https://pcpartpicker.com/list/rqtFjn
 ### Summary Table
 | Component | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
