@@ -22,13 +22,13 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/rqtFjn
 |-----------------|-------|-----------------|-------|
 | CPU | Intel Core i3-12100 3.3GHz Quad-Core Processor | $139.99 | ... |
 | CPU Cooler | ARCTIC Alpine 17 CO | $12.99 | ... |
-| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | ... | ... |
-| RAM | ... | ... | ... |
-| Storage 1 | ... | ... | ... |
+| Motherboard | MSI PRO H610M-G DDR4 Micro TX LGA 1700 Motherboard | $89.29 | ... |
+| RAM | TEAMGROUP T-Create Expert 16GB (2x8GB) DDR4-3200 CL 16 Memory | $45.99 | ... |
+| Storage 1 | TEAMGROUP MS30 256GB M.2-2280 SATA SSD | $21.99 | ... |
 | Storage 2 | ... | ... | ... |
 | Graphics Card | ... | ... | ... |
-| Power Supply | ... | ... | ... |
-| Case | ... | ... | ... |
+| Power Supply | MSI MAG A550BN 550W 80+ Bronze  Certified ATX Power Supply | $54.99 | ... |
+| Case | Lian Li A3-mATX MicroATX Mini Tower Case | $69.99 | ... |
 | Case Fans | ... | ... | ... |
 | **Total** | | **XXX USD/Php** | |
 ---
