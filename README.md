@@ -1,12 +1,12 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 1
 **Course**: CSARCH2
-**Section**: ___
+**Section**: S20
 **Group Members**:
-- Name 1
-- Name 2
-- Name 3
-- Name 4
-- Name 5
+- Crisostomo, Josh Neal
+- Lim, Patrick Anthony
+- Ross, Isabella Althea
+- De Castro, Jediaelle Denise
+- Sim, Matthew Fraser
 ---
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).
