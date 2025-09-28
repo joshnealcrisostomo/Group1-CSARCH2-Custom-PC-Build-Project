@@ -76,6 +76,7 @@ Reflections on:
 ## 7. Video pitch
 - Your video link here
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)
-- PCPartPicker build link
+- Vendor link 1: https://www.pcworth.com/
+- Vendor link 2: https://dynaquestpc.com/
+- PCPartPicker build link: https://pcpartpicker.com/list/cNd2PJ
 - Any technical documentation consulted
