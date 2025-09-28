@@ -40,17 +40,17 @@ Google spreadsheet link: [PC_Build_Template_With_Budget](https://docs.google.com
 
 | Component       | Model | Vendor & Link       | Price (Php) | Compatibility Notes                        |
 |-----------------|-------|--------------------|-------------|-------------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M       |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                        |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                          |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                      |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported                    |
-| Storage 2 (HDD) | ...   | [VillMan](link)    | ...         | SATA port supported                        |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports        |
-| PSU             | ...   | [VillMan](link)    | ...         | 650W, 80+ Bronze                           |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                              |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                               |
-| **Total**       |       |                    | **XXX Php** | Within budget                              |
+| CPU             | INTEL CORE I3 12100 (LGA1700)   | [PC WORTH]([link](https://www.pcworth.com/product/28231a3d76be?slug=intel-core-i3-12100-lga1700-with-intel-laminar-rm1-cooler-boxed)) | 6495         | Compatible with H610M motherboard       |
+| CPU Cooler      | INTEL LAMINAR RM1 COOLER (comes with CPU)   | [PC WORTH]([link](https://www.pcworth.com/product/28231a3d76be?slug=intel-core-i3-12100-lga1700-with-intel-laminar-rm1-cooler-boxed))    | 0         | Fits case clearance                        |
+| Motherboard     | Gigabyte H610M K DDR4 LGA1700 Motherboard   | [DynaQuest PC]([link](https://dynaquestpc.com/products/gigabyte-h610m-k-ddr4-lga1700-motherboard)) | 4150         | Dual Channel DDR4                          |
+| RAM             | Lexar Thor 8GB Single DDR4 3200MHz Desktop Memory LD4BU008G-R3200GSXG x2   | [DynaQuest PC](https://dynaquestpc.com/products/lexar-thor-8gb-8gbx1-ddr4-3200mhz-desktop-memory-ld4bu008g-r3200csxg?_pos=2&_psq=lexar+thor&_ss=e&_v=1.0) | 2640         | DDR4 3200MHz 2x8GB                      |
+| Storage 1 (SSD) | Adata Legend 710 512GB PCIe Gen3 x4 M.2 NVME 2280 Internal SSD ALEG-710-512GCS   | [DynaQuest PC](https://dynaquestpc.com/products/adata-legend-710-512gb-pcie-gen3-x4-m-2-nvme-2280-internal-ssd-aleg-710-512cgs) | 1820         | NVMe M.2 Supported                   |
+| Storage 2 (HDD) | ...   | ...    | ...         | ...                        |
+| GPU             | ...   | ...   | ...         | ...        |
+| PSU             | MSI MAG A550BN Bronze 550W 80+ Power Supply   | [DynaQuest PC](https://dynaquestpc.com/products/msi-mag-a550bn-bronze-550w-80-power-supply?_pos=1&_psq=MSI+MAG+a550BN&_ss=e&_v=1.0)    | 2595         | 550W, 80+ Bronze                           |
+| Case            | Tecware NEO M2 Steel Black Mesh mATX Case with 3X120mm Fans   | [DynaQuest PC](https://dynaquestpc.com/products/tecware-neo-m2-steel-black-mesh-matx-case-with-3x120mm-fans)    | 1670         | Micro ATX                              |
+| Case Fans       |  3X120mm Fans (comes with Case)   | [DynaQuest PC](https://dynaquestpc.com/products/tecware-neo-m2-steel-black-mesh-matx-case-with-3x120mm-fans)    | 0         | 120mm x3                              |
+| **Total**       |       |                    | **19370 Php** | Within budget                              |
 
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.
