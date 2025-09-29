@@ -56,10 +56,13 @@ Google spreadsheet link: [PC_Build_Template_With_Budget](https://docs.google.com
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.
 Example:
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board
-(LGA1700 socket, BIOS compatible).
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.
+- **CPU + Motherboard**: Intel Core i3 12100 (LGA1700) works with the Gigabyte H610M K DDR4 LGA1700. The CPU uses the LGA1700, which is supported by the motherboard since it has the LGA1700, ensuring physical compatibility. H610 chipset also supports the 12th Gen Core i3 Intel CPU, making them electronically compatible. Lastly, the motherboard is listed as an H610M model, which denotes its Micro ATX (mATX) form factor, compatible with the mATX case.
+- **RAM**: Lexar Thor 8GB Single DDR4 3200MHz Desktop Memory is supported by the Gigabyte H610M K DDR4 motherboard. The motherboard is specified as DDR4, and the chosen RAM is also DDR4, which makes them compatible. The RAM's speed is 3200MHz, which is the standard effective speed for many 12th-gen/H610 configurations, and the motherboard supports this frequency.
+- **Storage**: Adata Legend 710 512GB PCIe Gen3 x4 NVME 2280 works with Gigabyte H610M K. The motherboard supports NVMe M.2 SSDs. The Adata Legend 710 is an NVMe M.2 2280 drive, which will physically slot into the M.2 port on the motherboard. Since the CPU/Motherboard supports PCIe Gen3/4, the Gen3 SSD is fully compatible, though it runs at a lower speed than newer Gen4 drives.
+- **PSU**: MSI MAG A550BN Bronze 550W 80+ Power Supply works well with all system components. The 550W rating is sufficient to power the low-to-mid-range components. Since our build does not include a dedicated GPU, 550W is sufficient.
+- **Case and Form Factors**: Gigabyte H610M K (Motherboard) fits with the Tecware NEO M2 Steel Black Mesh mATX Case. Tecware NEO M2 is a Micro ATX (mATX) case, and the Gigabyte H610M K is an mATX motherboard, ensuring it will fit correctly into the case's standoffs and mounting points. The case provides sufficient clearance for the Intel Laminar RM1 Cooler that comes with the CPU. Lastly, the included 3x120mm Case Fans provide the necessary airflow for cooling the internal components.
+
+
 ---
 ## 5. Budget Analysis
 - **Budget Limit**: ₱XX,000
