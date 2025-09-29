@@ -68,11 +68,13 @@ Google spreadsheet link: [PC_Build_Template_With_Budget](https://docs.google.com
 
 ---
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000
-- **Final Total**: ₱XX,000
-- Within budget / Over budget✅ ❌
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket
-cooler, etc.).
+The build was completed under the allocated budget, with the final total cost of the selected components amounting to ₱19,370, just below the ₱20,000 budget limit. Careful planning was necessary to divide the funds among the components, ensuring that the most important parts received the largest share.
+
+A significant portion of the budget was allocated to the processor and graphics card, as these directly influence the system’s speed and performance. To keep expenses reasonable, the group selected cost-efficient but reliable options for the RAM, storage, and motherboard. To save further, the stock cooler that came with the processor was used instead of buying a separate one, and a more affordable PC case was chosen, which allowed more room in the budget for critical components. In contrast, a slightly higher-wattage power supply was selected to provide flexibility for future upgrades.
+
+By comparing prices from local stores in Manila and international retailers, the group was able to make cost-effective choices without sacrificing essential performance. Overall, the budget allocation shows a balance between affordability and functionality, with savings made primarily in areas that had minimal effect on system capability.
+
+
 ---
 ## 6. Conclusion & Learnings
 Reflections on:
