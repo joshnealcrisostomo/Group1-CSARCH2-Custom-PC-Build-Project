@@ -79,8 +79,15 @@ By comparing prices from local stores in Manila and international retailers, the
 ## 6. Conclusion & Learnings
 Reflections on:
 - Price differences (international vs. Manila vendors)
+Our research  showed that PC components are generally more expensive when purchased from international vendors compared to local Manila suppliers. For example, high-end GPUs and SSDs from international stores often include additional shipping fees, import taxes, and handling charges, which can  increase the final cost. The conversion from US dollars to Philippine pesos also often makes these components even more expensive for us, whereas in the United States, the same parts are relatively cheaper for local buyers. Conversely, local vendors sometimes offer competitive prices due to lower shipping costs and occasional promotional discounts. We noticed this when building our draft build on pc part picker as it was more expensive than our local build table. However, it is also notable that some of the latest gen specs may not be readily available locally, forcing us to purchase from international suppliers at a higher price.
+
 - Challenges in finding stock or cheaper equivalents
+We observed that international vendors tend to have a wider selection and higher availability of components, especially for latest gen specs. For example, In our draft build we opted for the MSI PRO H610M-G but that exact model wasnt available here so we had to substitute it with Gigabyte H610M which carries the same compatibility. This shows that locally, while stock levels for mainstream parts like RAM, SSDs, and CPUs are generally stable, finding cheaper alternatives or specific models can be difficult. There is a trade-off between availability and cost, exemplifying the importance of planning and sourcing in PC building.
+
 - What the group learned about PC components and system design
+Through this activity, our group gained a deeper understanding of PC components and how they interact within a system. We learned that compatibility is critical. Choosing a motherboard that supports a particular CPU and RAM type, ensuring power supply capacity matches component demands, and considering cooling requirements are all essential for a functional and stable build. Additionally, we realized that optimizing a system for performance and cost-efficiency requires careful selection of parts: balancing speed, storage, and graphics performance without overspending. We learned about bottlenecks and that pairing a high-end GPU with a low-end CPU is inefficient, while investing in high-speed RAM may not significantly improve performance if the CPU cannot fully utilize it. We also learned how important the purpose of the PC strongly affects part selection. Since our build focused on intel budget gaming, we prioritized a decent CPU that can handle low end games and opted out of a GPU. Based on a benchmark video it can run GTA 5 at an average of 70 fps so it should have no problems running games like League of legends or valorant. If our PC was intended for office work, media editing, or server tasks, our component choices would have been different, with more emphasis on storage or energy efficiency.
+
+This exercise reinforced that building a PC is not just about picking the most expensive or powerful components, but about strategic planning, understanding hardware compatibility, and making informed trade-offs between cost, performance, and availability. We also learned the importance of keeping track of market prices and stock levels, both locally and internationally, to maximize value for money. 
 ---
 ## 7. Video pitch
 - Your video link here
@@ -88,4 +95,5 @@ Reflections on:
 - Vendor link 1: https://www.pcworth.com/
 - Vendor link 2: https://dynaquestpc.com/
 - PCPartPicker build link: https://pcpartpicker.com/list/cNd2PJ
-- Any technical documentation consulted
+- Gaming benchmarks for I3 12100 Integrated graphics
+- https://www.youtube.com/watch?v=Eeqcu2lOy-Q&t
