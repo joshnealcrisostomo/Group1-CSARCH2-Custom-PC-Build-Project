@@ -54,8 +54,7 @@ Google spreadsheet link: [PC_Build_Template_With_Budget](https://docs.google.com
 | **Total**       |       |                    | **19,370 Php** | Within budget                              |
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.
-Example:
+
 - **CPU + Motherboard**: Intel Core i3 12100 (LGA1700) works with the Gigabyte H610M K DDR4 LGA1700. The CPU uses the LGA1700, which is supported by the motherboard since it has the LGA1700, ensuring physical compatibility. H610 chipset also supports the 12th Gen Core i3 Intel CPU, making them electronically compatible. Lastly, the motherboard is listed as an H610M model, which denotes its Micro ATX (mATX) form factor, compatible with the mATX case.
 
 - **RAM**: Lexar Thor 8GB Single DDR4 3200MHz Desktop Memory is supported by the Gigabyte H610M K DDR4 motherboard. The motherboard is specified as DDR4, and the chosen RAM is also DDR4, which makes them compatible. The RAM's speed is 3200MHz, which is the standard effective speed for many 12th-gen/H610 configurations, and the motherboard supports this frequency.
