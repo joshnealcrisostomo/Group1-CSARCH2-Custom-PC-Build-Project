@@ -10,9 +10,9 @@
 - Sim, Matthew Fraser
 ---
 ## 1. Introduction
-This project involves building a custom desktop PC that will serve as a dependable and cost-effective machine for general-purpose applications such as light gaming, productivity tasks, and programming. The goal is to establish a well-balanced setup that delivers a strong performance while avoiding unnecessary expenditure on high-end components.
+This project involves building a custom desktop PC that can handle different general-purpose tasks such as light gaming, productivity tasks, and programming while remaining cost-efficient. The objective is to assemble a well-balanced setup that provides dependable performance without overspending on expensive, high-end parts.
 
-The build is limited by a budget of ₱20,000 (roughly $350 to $400), which guided the decision-making process in selecting appropriate hardware. Careful consideration was given to compatibility, upgrade potential, and overall value for money. To make cost-effective choices, the group compared part prices from international sources as well as local computer retailers in Manila, ensuring that the final configuration strikes a balance between affordability and functionality.
+The build was limited by a budget of ₱20,000 (roughly $350 to $400), which guided the decision-making process in selecting appropriate components. By considering compatibility, upgrade potential, and overall value, as well as comparing local Manila and international prices, the group aimed to strike a balance between affordability and functionality.
 
 ---
 ## 2. Draft Build (PCPartPicker)
