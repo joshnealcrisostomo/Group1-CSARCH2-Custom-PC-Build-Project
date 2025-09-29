@@ -10,9 +10,10 @@
 - Sim, Matthew Fraser
 ---
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data
-science, etc.) and budget constraint.
+This project involves building a custom desktop PC that will serve as a dependable and cost-effective machine for general-purpose applications such as light gaming, productivity tasks, and programming. The goal is to establish a well-balanced setup that delivers a strong performance while avoiding unnecessary expenditure on high-end components.
+
+The build is limited by a budget of ₱20,000 (roughly $350 to $400), which guided the decision-making process in selecting appropriate hardware. Careful consideration was given to compatibility, upgrade potential, and overall value for money. To make cost-effective choices, the group compared part prices from international sources as well as local computer retailers in Manila, ensuring that the final configuration strikes a balance between affordability and functionality.
+
 ---
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check.
