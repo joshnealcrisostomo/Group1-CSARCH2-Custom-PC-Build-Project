@@ -90,7 +90,7 @@ Through this activity, our group gained a deeper understanding of PC components 
 This exercise reinforced that building a PC is not just about picking the most expensive or powerful components, but about strategic planning, understanding hardware compatibility, and making informed trade-offs between cost, performance, and availability. We also learned the importance of keeping track of market prices and stock levels, both locally and internationally, to maximize value for money. 
 ---
 ## 7. Video pitch
-- Your video link here
+- (https://youtu.be/ndjimGVdOmM)
 ## 8. References
 - Vendor link 1: https://www.pcworth.com/
 - Vendor link 2: https://dynaquestpc.com/
